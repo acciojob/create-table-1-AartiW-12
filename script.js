@@ -12,7 +12,7 @@ function insert_Row() {
 
     // Add text content to each new cell
     cell1.textContent = "New Cell1";
-    cell2.textContent = "New Cell2";
+    cell2.textContent = "New Cell2";
 
   
 }
